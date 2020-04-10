@@ -30,3 +30,8 @@ header a{
     font-size: 16px;
     text-decoration: underline;
 }
+footer p{
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+}
